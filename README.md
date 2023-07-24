@@ -7,9 +7,7 @@ Puedes poner en práctica tus habilidades revisando y utilizando el código a co
 
 * [1. Intro](https://github.com/alisoncastg/clon-de-google/tree/main#1intro)
 * [2. Demo](https://github.com/alisoncastg/clon-de-google/tree/main#2-demo)
-* [3. ¿Qué construirás?](https://github.com/alisoncastg/clon-de-google/tree/main#3-qu%C3%A9-construir%C3%A1s)
-* [4. Objetivos de aprendizaje](https://github.com/alisoncastg/clon-de-google/tree/main#4-objetivos-de-aprendizaje)
-* [5. Requisitos](https://github.com/alisoncastg/clon-de-google/tree/main#5-requisitos)
+* [3. ¿Qué construí?](https://github.com/alisoncastg/clon-de-google/tree/main#3-qu%C3%A9-construir%C3%A1s)
 
 ****
 
